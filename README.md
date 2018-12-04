@@ -1,4 +1,4 @@
-#Java 8 Stream Exercises
+# Java 8 Stream Exercises
 
 Fix `BookFinder.java` so that `exercise1()` returns the unique surnames, in uppercase of the first 5 authors that are 50 years or older.
 
@@ -10,7 +10,7 @@ Solutions to both exercises are available on the `solution` branch
 
 Credit to https://technologyconversations.com for the exercises.
 
-###resources
+### resources
 A good summary of non-terminal stream operations: https://www.leveluplunch.com/java/examples/stream-intermediate-operations-example/
 
 And terminal operations: https://www.leveluplunch.com/java/examples/stream-terminal-operations-example/
