@@ -6,6 +6,9 @@ Then fix `BookFinder.java` so that `exercise2()` returns `the sum of all ages of
 
 `BookFinderTest.java` contains automated tests for both scenarios to help you check your work.
 
+Solutions to both exercises are available on the `solution` branch
+
+Credit to https://technologyconversations.com for the exercises.
 
 ###resources
 A good summary of non-terminal stream operations: https://www.leveluplunch.com/java/examples/stream-intermediate-operations-example/
